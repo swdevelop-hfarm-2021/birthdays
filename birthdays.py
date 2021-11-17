@@ -18,3 +18,4 @@ def return_birthday(name):
 
 def test_function(name):
     print ('This is a stupid test')
+    return b
