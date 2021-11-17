@@ -16,3 +16,6 @@ def return_birthday(name):
     else:
         print('Sadly, we don\'t have {}\'s birthday.'.format(name))
 
+def test_function(name):
+    print ('This is a stupid test')
+    return b
