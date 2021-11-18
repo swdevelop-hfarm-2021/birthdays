@@ -5,6 +5,7 @@ birthdays = {
     'Donald Trump': '06/14/1946',
     'Rowan Atkinson': '01/6/1955'
     'Massimo XXXXX': '02/12/1998'
+    'AAA BBB': '14/03/2000'
 }
 
 def print_birthdays():
