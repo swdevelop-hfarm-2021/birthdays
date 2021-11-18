@@ -14,5 +14,12 @@ Sadly, we don't have Alan Turing's birthday.
 
 Code is taken from the nice [practice Python](https://www.practicepython.org/) website from Michele Pratusevich and is released with a [CC-BY](https://www.practicepython.org/about/) license.
 
+<<<<<<< HEAD
 
 # here is a comment used to change the file
+=======
+#Modifica di prova - Martina T 
+#holaa 
+>>>>>>> 61cb71aa48cced698a936d0f73b26efd142574ab
+
+# giovedì 18 novembre
