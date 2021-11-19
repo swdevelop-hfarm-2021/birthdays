@@ -7,8 +7,11 @@ In this repository you can find a file named ```birthday.py``` that contains a s
 $ python main.py
 Albert Einstein's birthday is 03/14/1879.
 Sadly, we don't have Alan Turing's birthday.
+hello world
 ```
-
+CIAO CORINNE
+CIAO MAX
+CIAO MARCI
 
 ## Credits:
 
