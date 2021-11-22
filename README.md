@@ -22,4 +22,5 @@ Code is taken from the nice [practice Python](https://www.practicepython.org/) w
 #holaa 
 >>>>>>> 61cb71aa48cced698a936d0f73b26efd142574ab
 
-# giovedì 18 novembre
+#### giovedì 18 novembre
+#### task accomplishment: modify the README.md file
