@@ -12,7 +12,7 @@ pip install python-calendarific
 ```python
 import calendarific
 
-calapi = calendarific.v2('_REPLACE_WITH_API_KEY_')
+calapi = calendarific.v2('6981d02afb34fb0d7f67b5ad93491ab8283a7773')
 
 parameters = {
 	# Required
