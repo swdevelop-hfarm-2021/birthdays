@@ -2,7 +2,7 @@ import json
 import requests
 
 class v2:
-    api_key = None
+    api_key = 6981d02afb34fb0d7f67b5ad93491ab8283a7773
 
     def __init__(self, api_key):
         self.api_key = api_key
