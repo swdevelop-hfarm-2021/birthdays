@@ -1,6 +1,8 @@
 import json
 import requests
 
+curl 'https://calendarific.com/api/v2/holidays?&api_key=6981d02afb34fb0d7f67b5ad93491ab8283a7773&country=IT&year=2021'
+
 class v2:
     api_key = 6981d02afb34fb0d7f67b5ad93491ab8283a7773
 
