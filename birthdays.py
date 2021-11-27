@@ -20,3 +20,6 @@ def return_birthday(name):
     else:
         print('Sadly, we don\'t have {}\'s birthday.'.format(name))
 
+def add_birthday(name, date):
+    birthdays[name] += date
+    return name '&' date 'added to the dictionary'
