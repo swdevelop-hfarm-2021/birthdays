@@ -3,7 +3,11 @@ birthdays = {
     'Benjamin Franklin': '01/17/1706',
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
-    'Rowan Atkinson': '01/6/1955'}
+    'Rowan Atkinson': '01/6/1955',
+    'Carlo Marco': '05/05/1818',
+    'John Mainard Keynes': '05/06/1883',
+    'Mattia Costacurta': '14/02/2000',
+    'Ginny Barbie': '01/01/2000'}
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
@@ -16,3 +20,6 @@ def return_birthday(name):
     else:
         print('Sadly, we don\'t have {}\'s birthday.'.format(name))
 
+def add_birthday(name, date):
+    birthdays[name] += date
+    return name '&' date 'added to the dictionary'
